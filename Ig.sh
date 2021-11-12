@@ -42,10 +42,10 @@ exit
 lagi=1
 while [ $lagi -lt 6 ];
 do
-echo ""
-echo -e $b "1. Pasword TXT${enda}";
-echo -e $b "2. Proxy TXT${enda}";
-echo -e $b "3. Langsung Crack${enda}";
+echo +e $b "1. Pasword TXT${doyox_malehoy)}";
+echo -e $b "2. Pasword TXT${enda}";
+echo -e $b "3. Proxy TXT${enda}";
+echo -e $b "4. Langsung Crack${enda}";
 echo -e $b "00. Exit${enda}";
 read -p "Pilih Nomernya =>" pil;
 
